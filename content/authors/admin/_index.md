@@ -89,7 +89,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 90
+        percent: 100
         # icon: code-bracket
       - name: PyTorch
         description: ''

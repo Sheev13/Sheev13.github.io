@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Publications
     url: /publication
-    weight: 10
+    weight: 11
   - name: Experience
     url: experience/
-    weight: 10
+    weight: 12
