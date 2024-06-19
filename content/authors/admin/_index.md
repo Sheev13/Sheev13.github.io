@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tommy Rochussen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tommy
+last_name: Rochussen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,67 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Machine Learning Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Motorway
+    url: https://motorway.co.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+    url: 'mailto:rochussentn@gmail.com'
+    label: E-mail me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/TommyRochussen
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Sheev13
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tommy-rochussen/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.co.uk/citations?user=4keQu3kAAAAJ&hl=en&oi=ao
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian deep learning
+  - Approximate inference
+  - Probabilistic meta-learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng, Computer and Information Engineering
+    institution: University of Cambridge
+    date_start: 2019-10-05
+    date_end: 2023-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      Overall grade: Merit.
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Research project: class I (70%+). Thesis: [Amortised Inference in Bayesian Neural Networks](https://arxiv.org/abs/2309.03018). Supervised by [Matt Ashman](https://mattashman.github.io/) and [Adrian Weller](https://mlg.eng.cam.ac.uk/adrian/). This project resulted in a [workshop paper](https://arxiv.org/abs/2310.15786) that was accepted at [AABI 2023](https://approximateinference.org/2023/).
+      
+      Exams: class II.i (69.4%). Exam results inclue 73% in [Advanced Information Theory and Coding](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4f5-advanced-information-theory-and-coding-2022-23), 72% in [Probabilistic Machine Learning](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4f13-probabilistic-machine-learning-2022-23), 90% in [Computational Statistics and Machine Learning](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4m24-computational-statistics-and-machine-learning-2022-23).
+  - area: BA, Engineering
+    institution: University of Cambridge
+    date_start: 2019-10-05
+    date_end: 2023-06-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Overall grade: II.i
+work:
+  - position: Machine Learning Researcher
+    company_name: Motorway
+    company_url: https://motorway.co.uk/
+    company_logo: "custom/motorway"
+    date_start: 2023-04-29
+    date_end: ''
+    summary: |
+      Investigating Bayesian approaches to vehicle pricing.
+  - position: Data Science Intern
+    company_name: Algomo
+    company_url: https://www.algomo.com/
+    company_logo: "custom/algomo"
+    date_start: 2021-08-02
+    date_end: 2020-09-24
+    summary: |
+      Worked with BERT-based models for multilingual customer service chatbots.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,73 +89,82 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: 90
+        # icon: code-bracket
+      - name: PyTorch
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        # icon: chart-bar
+      - name: TensorFlow
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 50
+        # icon: circle-stack
+      - name: LaTeX
+        description: ''
+        percent: 80
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Weights Training
         description: ''
         percent: 100
-        icon: cat
+        # icon: person-simple-walk
+      - name: Bouldering
+        description: ''
+        percent: 60
+        # icon: 
+      - name: Wildlife
+        description: ''
+        percent: 60
+        # icon: cat
       - name: Photography
         description: ''
-        percent: 80
-        icon: camera
+        percent: 70
+        # icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: German
+    percent: 2
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#   - title: Neural Networks and Deep Learning
+#     url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2023-11-25'
+#     awarder: Coursera
+#     icon: coursera
+#     summary: |
+#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+#   - title: Blockchain Fundamentals
+#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#     date: '2023-07-01'
+#     awarder: edX
+#     icon: edx
+#     summary: |
+#       Learned:
+#       - Synthesize your own blockchain solutions
+#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#   - title: 'Object-Oriented Programming in R'
+#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#     certificate_url: https://www.datacamp.com
+#     date: '2023-01-21'
+#     awarder: datacamp
+#     icon: datacamp
+#     summary: |
+#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently on a fixed-term contract as an ML Researcher at [Motorway](https://motorway.co.uk/). I am working with scalable Bayesian machine learning models to obtain reliable vehicle price estimates for potential sellers when they first interact with the Motorway website. I am a _researcher_ in the sense that the work I am doing is exploratory for the company---I am not engaging in academic research here.
+
+In November I will join [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a PhD student in [Vincent Fortuin](https://fortuin.github.io/)'s research group, the [ELPIS lab](https://fortuinlab.github.io/), where I will be working on Bayesian deep learning and other exciting topics.
+
+Previously, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was _computer and information engineering_---though my module choice made the MEng (final) year essentially indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
