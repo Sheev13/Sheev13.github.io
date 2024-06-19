@@ -55,9 +55,9 @@ education:
     summary: |
       Overall grade: Merit.
       
-      Research project: class I (70%+). Thesis: [Amortised Inference in Bayesian Neural Networks](https://arxiv.org/abs/2309.03018). Supervised by [Matt Ashman](https://mattashman.github.io/) and [Adrian Weller](https://mlg.eng.cam.ac.uk/adrian/). This project resulted in a [workshop paper](https://arxiv.org/abs/2310.15786) that was accepted at [AABI 2023](https://approximateinference.org/2023/).
+      Research project: class I (70%+). Thesis: Amortised Inference in Bayesian Neural Networks. Supervised by Matt Ashman and Adrian Weller. This project resulted in a workshop paper that was accepted at AABI 2023.
       
-      Exams: class II.i (69.4%). Exam results inclue 73% in [Advanced Information Theory and Coding](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4f5-advanced-information-theory-and-coding-2022-23), 72% in [Probabilistic Machine Learning](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4f13-probabilistic-machine-learning-2022-23), 90% in [Computational Statistics and Machine Learning](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4m24-computational-statistics-and-machine-learning-2022-23).
+      Exams: class II.i (69.4%). Exam results inclue 73% in Advanced Information Theory and Coding, 72% in Probabilistic Machine Learning, 90% in Computational Statistics and Machine Learning.
   - area: BA, Engineering
     institution: University of Cambridge
     date_start: 2019-10-05
