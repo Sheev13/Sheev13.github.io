@@ -4,7 +4,7 @@ authors:
 - Tommy Rochussen
 date: '2023-09-06'
 publication_types:
-- 'paper-conference'
+- thesis
 publication: '*Master's Thesis*'
 links:
 - name: URL
