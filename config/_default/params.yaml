@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: dark
   color: emerald
 
 # SEO
@@ -32,7 +32,8 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
+    align: "center"
+    show_search: false
     show_theme_chooser: true
     logo:
       text: "Tommy Rochussen"
@@ -55,6 +56,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
