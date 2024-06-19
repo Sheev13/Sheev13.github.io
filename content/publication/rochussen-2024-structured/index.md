@@ -4,7 +4,7 @@ authors:
 - Tommy Rochussen
 date: '2024-05-27'
 publication_types:
-- speech
+- 'speech'
 publication: '*Sixth Symposium on Advances in Approximate Bayesian Inference - Non
   Archival Track*'
 links:
