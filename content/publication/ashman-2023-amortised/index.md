@@ -5,7 +5,8 @@ authors:
 - Tommy Rochussen
 - Adrian Weller
 date: '2023-06-20'
-publication_types: speech
+publication_types:
+- speech
 publication: '*Fifth Symposium on Advances in Approximate Bayesian Inference*'
 links:
 - name: URL

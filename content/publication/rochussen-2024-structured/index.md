@@ -3,7 +3,8 @@ title: Structured Partial Stochasticity in Bayesian Neural Networks
 authors:
 - Tommy Rochussen
 date: '2024-05-27'
-publication_types: speech
+publication_types:
+- speech
 publication: '*Sixth Symposium on Advances in Approximate Bayesian Inference - Non
   Archival Track*'
 links:
