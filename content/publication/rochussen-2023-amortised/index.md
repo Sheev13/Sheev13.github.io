@@ -1,5 +1,5 @@
 ---
-title: "Amortised Inference in Bayesian Neural Networks
+title: "Amortised Inference in Bayesian Neural Networks"
 authors:
 - "Tommy Rochussen"
 date: '2023-09-06'
