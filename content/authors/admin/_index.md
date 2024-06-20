@@ -55,7 +55,7 @@ education:
     summary: |
       Overall grade: Merit.
       
-      Research project: class I (70%+). Thesis: Amortised Inference in Bayesian Neural Networks. Supervised by Matt Ashman and Adrian Weller. This project resulted in a workshop paper that was accepted at AABI 2023.
+      Research project: class I (70%+). Thesis title: Amortised Inference in Bayesian Neural Networks. Supervised by Matt Ashman and Adrian Weller. This project resulted in a workshop paper that was accepted at AABI 2023.
       
       Exams: class II.i (69.4%). Exam results inclue 73% in Advanced Information Theory and Coding, 72% in Probabilistic Machine Learning, 90% in Computational Statistics and Machine Learning.
   - area: BA, Engineering
@@ -167,4 +167,4 @@ I am currently on a fixed-term contract as an ML Researcher at [Motorway](https:
 
 In November I will join [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a PhD student in [Vincent Fortuin](https://fortuin.github.io/)'s research group, the [ELPIS lab](https://fortuinlab.github.io/), where I will be working on Bayesian deep learning and other exciting topics.
 
-Previously, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was _computer and information engineering_---though my module choice made the MEng (final) year essentially indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
+Previously, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was _computer and information engineering_, though my module choice made the MEng (final) year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).

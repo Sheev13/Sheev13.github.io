@@ -6,7 +6,7 @@ authors:
 - Adrian Weller
 date: '2023-06-20'
 publication_types:
-- speech
+- 0
 publication: '*Fifth Symposium on Advances in Approximate Bayesian Inference*'
 links:
 - name: URL
