@@ -2,10 +2,10 @@
 title: Amortised Inference in Bayesian Neural Networks
 authors:
 - Tommy Rochussen
-date: '2023-09-06'
+date: '2023-06-01'
 publication_types:
 - thesis
-publication: "*Master's Thesis*"
+publication: "*University of Cambridge Engineering Tripos Part IIB Master's Thesis*"
 links:
 - name: URL
   url: https://arxiv.org/abs/2309.03018
