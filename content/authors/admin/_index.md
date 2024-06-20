@@ -43,9 +43,9 @@ profiles:
     url: https://scholar.google.co.uk/citations?user=4keQu3kAAAAJ&hl=en&oi=ao
 
 interests:
-  - Bayesian deep learning
-  - Approximate inference
-  - Probabilistic meta-learning
+  - Bayesian Deep Learning
+  - Approximate Inference
+  - Probabilistic Meta-learning
 
 education:
   - area: MEng, Computer and Information Engineering
