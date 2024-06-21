@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop Paper | Tommy Rochussen</title>
+    <link>https://example.com/publication_types/workshop-paper/</link>
+      <atom:link href="https://example.com/publication_types/workshop-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop Paper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Workshop Paper</title>
+      <link>https://example.com/publication_types/workshop-paper/</link>
+    </image>
+    
+    <item>
+      <title>Structured Partial Stochasticity in Bayesian Neural Networks</title>
+      <link>https://example.com/publication/rochussen-2024-structured/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rochussen-2024-structured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amortised Inference in Neural Networks for Small-Scale Probabilistic Meta-Learning</title>
+      <link>https://example.com/publication/ashman-2023-amortised/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ashman-2023-amortised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

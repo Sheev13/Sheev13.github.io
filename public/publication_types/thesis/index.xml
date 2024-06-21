@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis | Tommy Rochussen</title>
+    <link>https://example.com/publication_types/thesis/</link>
+      <atom:link href="https://example.com/publication_types/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Thesis</title>
+      <link>https://example.com/publication_types/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Amortised Inference in Bayesian Neural Networks</title>
+      <link>https://example.com/publication/rochussen-2023-amortised/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rochussen-2023-amortised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
