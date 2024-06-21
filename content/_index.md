@@ -40,6 +40,7 @@ sections:
          In my research I hope to develop powerful machine learning models that _do_ have a sense of how certain they are, so that, once equipped with the ability to quantify their uncertainty, we can use machines to obtain more _robust_ and _reliable_ predictions that can help us in arbitrarily high-stakes situations. The Bayesian formalism offers a highly principled approach to uncertainty quantification and it comes with many attractive benefits; the ability to specify prior beliefs and udpate them with data, the ability to automatically choose the \"right\" model out of many, the ability to update a trained model when new data becomes available, and so on. As such, a key part of my ethos is _to be Bayesian_, and I believe that Bayesian machine learning research is where we should focus our efforts.
     design:
       columns: '1'
+    css_class: "research-mission"
   # - block: collection
   #   id: papers
   #   content:
