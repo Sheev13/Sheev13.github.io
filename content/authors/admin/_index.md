@@ -78,7 +78,7 @@ work:
     company_url: https://www.algomo.com/
     company_logo: "custom/algomo"
     date_start: 2021-08-02
-    date_end: 2020-09-24
+    date_end: 2021-09-24
     summary: |
       Worked with BERT-based models for multilingual customer service chatbots.
 
