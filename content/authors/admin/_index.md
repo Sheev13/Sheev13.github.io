@@ -55,7 +55,7 @@ education:
     summary: |
       Overall grade: Merit.
       
-      Research project: class I (70%+). Thesis title: Amortised Inference in Bayesian Neural Networks. Supervised by Matt Ashman and Adrian Weller. This project resulted in a workshop paper that was accepted at AABI 2023.
+      Research project: class I (70%+). Thesis title: \"Amortised Inference in Bayesian Neural Networks\". Supervised by Matt Ashman and Adrian Weller. This project resulted in a workshop paper that was accepted at AABI 2023.
       
       Exams: class II.i (69.4%). Exam results inclue 73% in Advanced Information Theory and Coding, 72% in Probabilistic Machine Learning, 90% in Computational Statistics and Machine Learning.
   - area: BA, Engineering
