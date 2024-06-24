@@ -10,8 +10,8 @@ main:
   - name: Research
     url: /#rm
     weight: 2
-  - name: Experience
-    url: experience/
+  - name: Background
+    url: background/
     weight: 3
   - name: Publications
     url: publication/
