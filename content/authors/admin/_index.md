@@ -165,6 +165,6 @@ languages:
 
 I am currently on a fixed-term contract as an ML Researcher at [Motorway](https://motorway.co.uk/). I am working with scalable Bayesian machine learning models to obtain reliable vehicle price estimates for potential sellers when they first interact with the Motorway website. I am a _researcher_ in the sense that the work I am doing is exploratory for the company---I am not engaging in academic research here.
 
-In November I will join [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a PhD student in [Vincent Fortuin](https://fortuin.github.io/)'s research group, the [ELPIS lab](https://fortuinlab.github.io/), where I will be working on Bayesian deep learning and other exciting topics.
+In November I will join [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a PhD student in [Vincent Fortuin](https://fortuin.github.io/)'s research group, the [ELPIS lab](https://fortuinlab.github.io/), where I will be working on Bayesian deep learning and other exciting topics!
 
 Previously, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was _computer and information engineering_, though my module choice made the MEng (final) year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
