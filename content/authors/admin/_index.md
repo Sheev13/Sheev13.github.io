@@ -69,7 +69,7 @@ work:
     company_name: Motorway
     company_url: https://motorway.co.uk/
     company_logo: "custom/motorway"
-    date_start: 2023-04-29
+    date_start: 2024-04-29
     date_end: ''
     summary: |
       Investigating Bayesian approaches to vehicle pricing.
