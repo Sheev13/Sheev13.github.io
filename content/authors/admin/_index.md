@@ -84,50 +84,50 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 100
-        # icon: code-bracket
-      - name: PyTorch
-        description: ''
-        percent: 100
-        # icon: chart-bar
-      - name: TensorFlow
-        description: ''
-        percent: 50
-        # icon: circle-stack
-      - name: LaTeX
-        description: ''
-        percent: 80
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Weights Training
-        description: ''
-        percent: 100
-        # icon: person-simple-walk
-      - name: Bouldering
-        description: ''
-        percent: 60
-        # icon: 
-      - name: Wildlife
-        description: ''
-        percent: 60
-        # icon: cat
-      - name: Photography
-        description: ''
-        percent: 70
-        # icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 100
+#         # icon: code-bracket
+#       - name: PyTorch
+#         description: ''
+#         percent: 100
+#         # icon: chart-bar
+#       - name: TensorFlow
+#         description: ''
+#         percent: 50
+#         # icon: circle-stack
+#       - name: LaTeX
+#         description: ''
+#         percent: 80
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Weights Training
+#         description: ''
+#         percent: 100
+#         # icon: person-simple-walk
+#       - name: Bouldering
+#         description: ''
+#         percent: 60
+#         # icon: 
+#       - name: Wildlife
+#         description: ''
+#         percent: 60
+#         # icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 70
+#         # icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: German
-    percent: 2
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: German
+#     percent: 2
 
 # Awards.
 #   Add/remove as many awards below as you like.
