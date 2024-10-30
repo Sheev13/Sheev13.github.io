@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Machine Learning Researcher
+role: Doctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Motorway
-    url: https://motorway.co.uk/
+  - name: Helmholtz AI
+    url: https://www.helmholtz.ai/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:rochussentn@gmail.com'
+    url: 'mailto:thomas.rochussen@helmholtz-munich.de'
     label: E-mail me
   - icon: brands/x
     url: https://x.com/TommyRochussen
@@ -48,6 +48,12 @@ interests:
   - Probabilistic Meta-learning
 
 education:
+  - area: PhD, Probabilistic Machine Learning
+    institution: Helmholtz AI, Technical University of Munich (TUM)
+    date_start: 2024-10-28
+    date_end: ''
+    summary: |
+      Supervised by Vincent Fortuin.
   - area: MEng, Computer and Information Engineering
     institution: University of Cambridge
     date_start: 2019-10-05
@@ -70,9 +76,9 @@ work:
     company_url: https://motorway.co.uk/
     company_logo: "custom/motorway"
     date_start: 2024-04-29
-    date_end: ''
+    date_end: 2024-09-30
     summary: |
-      Investigating Bayesian approaches to vehicle pricing.
+      Investigating the utility of Bayesian approaches for applications in vehicle pricing.
   - position: Data Science Intern
     company_name: Algomo
     company_url: https://www.algomo.com/
@@ -163,8 +169,6 @@ work:
 
 ## About Me
 
-I am currently on a fixed-term contract as an ML Researcher at [Motorway](https://motorway.co.uk/). I am working with scalable Bayesian machine learning models to obtain reliable vehicle price estimates for potential sellers when they first interact with the Motorway website. I am a _researcher_ in the sense that the work I am doing is exploratory for the company---I am not engaging in academic research here.
+I am a doctoral researcher at [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a member of the [Elpis lab](https://fortuinlab.github.io/), supervised by [Dr. Vincent Fortuin](https://fortuin.github.io/). I am mentored by [Mark van der Wilk](https://mvdw.uk/). Unlike in countries such as the UK, PhD students in Germany often work as employees at a research institution while simultaneously being enrolled at a university in order to obtain the doctoral degree---in my case these are Helmholtz AI and TUM respectively. The doctoral degree I hope to be awarded at the end of my time here is a [*doctor rerum naturalium*](https://en.wikipedia.org/wiki/Dr._rer._nat.).
 
-In November I will join [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a PhD student in [Vincent Fortuin](https://fortuin.github.io/)'s research group, the [ELPIS lab](https://fortuinlab.github.io/), where I will be working on Bayesian deep learning and other exciting topics!
-
-Previously, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was _computer and information engineering_, though my module choice made the MEng (final) year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
+Previously, I spent six months as a Machine Learning Researcher at [Motorway](https://motorway.co.uk/) in London where I worked with scalable Bayesian machine learning models for various use cases in vehicle pricing. Prior to that, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was *computer and information engineering*, though my module choice made the MEng (final) year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
