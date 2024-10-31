@@ -48,13 +48,14 @@ interests:
   - Probabilistic Meta-learning
 
 education:
-  - area: PhD, Probabilistic Machine Learning
+  - area: Doctor of Natural Sciences (Dr. Rer. Nat.), Probabilistic Machine Learning
     institution: Helmholtz AI, Technical University of Munich (TUM)
     date_start: 2024-10-28
     date_end: ''
     summary: |
       Supervised by Vincent Fortuin.
-  - area: MEng, Computer and Information Engineering
+      Mentored by Mark van der Wilk.
+  - area: Master of Engineering (M.Eng.), Computer and Information Engineering
     institution: University of Cambridge
     date_start: 2019-10-05
     date_end: 2023-06-30
@@ -64,7 +65,7 @@ education:
       Research project: class I (70%+). Thesis title: \"Amortised Inference in Bayesian Neural Networks\". Supervised by Matt Ashman and Adrian Weller. This project resulted in a workshop paper that was accepted at AABI 2023.
       
       Exams: class II.i (69.4%). Exam results inclue 73% in Advanced Information Theory and Coding, 72% in Probabilistic Machine Learning, 90% in Computational Statistics and Machine Learning.
-  - area: BA, Engineering
+  - area: Bachelor of Arts (B.A.), Engineering
     institution: University of Cambridge
     date_start: 2019-10-05
     date_end: 2023-06-30
@@ -171,4 +172,6 @@ work:
 
 I am a doctoral researcher at [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a member of the [Elpis lab](https://fortuinlab.github.io/), supervised by [Dr. Vincent Fortuin](https://fortuin.github.io/). I am mentored by [Mark van der Wilk](https://mvdw.uk/). Unlike in countries such as the UK, PhD students in Germany often work as employees at a research institution while simultaneously being enrolled at a university in order to be awarded a doctoral degree---in my case these are Helmholtz AI and TUM respectively.
 
-Previously, I spent six months as a Machine Learning Researcher at [Motorway](https://motorway.co.uk/) in London where I worked with scalable Bayesian machine learning models for various use cases in vehicle pricing. Prior to that, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was *computer and information engineering*, though my module choice made the MEng (final) year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
+Prior to my PhD, I took a year out of education to focus on PhD applications. In addition to these applications, I wrote a [single-author research paper](https://arxiv.org/abs/2405.17666) that was accepted at AABI 2024, and spent six months as a Machine Learning Researcher at [Motorway](https://motorway.co.uk/) in London where I worked with scalable Bayesian machine learning models for various use cases in vehicle pricing.
+
+Before my year out, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was *computer and information engineering*, though my module choice made the MEng (final) year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
