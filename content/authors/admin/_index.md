@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: True
 
 # Role/position/tagline
 role: Doctoral Researcher
