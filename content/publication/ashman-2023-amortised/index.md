@@ -2,7 +2,7 @@
 title: Amortised Inference in Neural Networks for Small-Scale Probabilistic Meta-Learning
 authors:
 - Matthew Ashman
-- '__Tommy Rochussen__'
+- '<b>Tommy Rochussen</b>'
 - Adrian Weller
 date: '2023-06-20'
 publication_types:
