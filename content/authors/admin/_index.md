@@ -75,7 +75,7 @@ work:
   - position: Machine Learning Researcher
     company_name: Motorway
     company_url: https://motorway.co.uk/
-    company_logo: "motorway.svg"
+    company_logo: "custom/motorway"
     date_start: 2024-04-29
     date_end: 2024-09-30
     summary: |
