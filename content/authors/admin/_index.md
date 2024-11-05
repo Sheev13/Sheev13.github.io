@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tommy Rochussen
+title: "Tommy Rochussen"
 
 # Name pronunciation (optional)
 name_pronunciation: ''
