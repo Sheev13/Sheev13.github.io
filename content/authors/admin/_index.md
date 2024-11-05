@@ -10,14 +10,14 @@ first_name: Tommy
 last_name: Rochussen
 
 # Status emoji
-status:
-  icon:
+status: ''
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: True
+highlight_name: true
 
 # Role/position/tagline
 role: Doctoral Researcher
