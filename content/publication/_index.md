@@ -3,7 +3,7 @@ title: Publications
 cms_exclude: true
 
 # View.
-view: list
+view: community/bibliog
 
 # Optional header image (relative to `static/media/` folder).
 banner:
