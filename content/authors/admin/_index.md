@@ -36,6 +36,8 @@ profiles:
     label: E-mail me
   - icon: brands/x
     url: https://x.com/TommyRochussen
+  - icon: custom/blueskey
+    url: https://bsky.app/profile/rochussen.bsky.social
   - icon: brands/github
     url: https://github.com/Sheev13
   - icon: brands/linkedin
