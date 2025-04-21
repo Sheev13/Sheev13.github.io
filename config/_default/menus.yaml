@@ -17,7 +17,7 @@ main:
   #   url: publication/
   #   weight: 4
   - name: CV
-    url: uploads/tnr_cv.pdf
+    url: static/uploads/tnr_cv.pdf
     weight: 1
   - name: Group Website
     url: https://fortuinlab.github.io/

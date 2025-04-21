@@ -176,7 +176,7 @@ profiles:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+# About Me
 
 I am a doctoral researcher at [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a member of the [Elpis lab](https://fortuinlab.github.io/), supervised by [Dr. Vincent Fortuin](https://fortuin.github.io/). I am mentored by [Mark van der Wilk](https://mvdw.uk/). I am broadly motivated by the need to develop machine intelligence systems that operate with an accurate sense of uncertainty over their predictions.
 
@@ -184,9 +184,9 @@ Prior to my PhD, I took a year out of education to focus on expanding my knowled
 
 Before my year out, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was *computer and information engineering*, though my module choice made the integrated masters year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
 
-For more information about my background, feel free to look at my [CV](uploads/tnr_cv.pdf). To see my publications, you can scroll to the bottom of my CV or find my Google Scholar page [here](https://scholar.google.com/citations?user=4keQu3kAAAAJ&hl). My CV is accurate as of April 2025.
+For more information about my background, feel free to look at my [CV](static/uploads/tnr_cv.pdf). To see my publications, you can scroll to the bottom of my CV or find my Google Scholar page [here](https://scholar.google.com/citations?user=4keQu3kAAAAJ&hl). My CV is accurate as of April 2025.
 
-# Interests
+### Interests
 
   - Neural Processes and Probabilistic Meta-Learning
   - Gaussian Processes
