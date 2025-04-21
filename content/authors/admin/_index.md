@@ -27,6 +27,8 @@ role: Doctoral Researcher
 organizations:
   - name: Helmholtz AI
     url: https://www.helmholtz.ai/
+  - name: Technical University of Munich
+    url: https://www.cit.tum.de/en/cit/home/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,51 +48,54 @@ profiles:
     url: https://scholar.google.co.uk/citations?user=4keQu3kAAAAJ&hl=en&oi=ao
 
 interests:
+  - Neural Processes and Probabilistic Meta-Learning
+  - Gaussian Processes
   - Bayesian Deep Learning
   - Approximate Inference
-  - Probabilistic Meta-learning
+  - Amortised Inference
+  - Probabilistic Machine Learning in General
 
-education:
-  - area: Doctor of Natural Sciences (Dr. Rer. Nat.), Probabilistic Machine Learning
-    institution: Helmholtz AI, Technical University of Munich (TUM)
-    date_start: 2024-10-28
-    date_end: ''
-    summary: |
-      Supervised by Vincent Fortuin.
-      Mentored by Mark van der Wilk.
-  - area: Master of Engineering (M.Eng.), Computer and Information Engineering
-    institution: University of Cambridge
-    date_start: 2019-10-05
-    date_end: 2023-06-30
-    summary: |
-      Overall grade: Merit.
+# education:
+#   - area: Doctor of Natural Sciences (Dr. Rer. Nat.), Probabilistic Machine Learning
+#     institution: Helmholtz AI, Technical University of Munich (TUM)
+#     date_start: 2024-10-28
+#     date_end: ''
+#     summary: |
+#       Supervised by Vincent Fortuin.
+#       Mentored by Mark van der Wilk.
+#   - area: Master of Engineering (M.Eng.), Computer and Information Engineering
+#     institution: University of Cambridge
+#     date_start: 2019-10-05
+#     date_end: 2023-06-30
+#     summary: |
+#       Overall grade: Merit.
       
-      Research project: class I (70%+). Thesis title: \"Amortised Inference in Bayesian Neural Networks\". Supervised by Matt Ashman and Adrian Weller. This project resulted in a workshop paper that was accepted at AABI 2023.
+#       Research project: class I (70%+). Thesis title: \"Amortised Inference in Bayesian Neural Networks\". Supervised by Matt Ashman and Adrian Weller. This project resulted in a workshop paper that was accepted at AABI 2023.
       
-      Exams: class II.i (69.4%). Exam results inclue 73% in Advanced Information Theory and Coding, 72% in Probabilistic Machine Learning, 90% in Computational Statistics and Machine Learning.
-  - area: Bachelor of Arts (B.A.), Engineering
-    institution: University of Cambridge
-    date_start: 2019-10-05
-    date_end: 2023-06-30
-    summary: |
-      Overall grade: II.i
-work:
-  - position: Machine Learning Researcher
-    company_name: Motorway
-    company_url: https://motorway.co.uk/
-    company_logo: "custom/motorway"
-    date_start: 2024-04-29
-    date_end: 2024-09-30
-    summary: |
-      Investigating the utility of Bayesian approaches for applications in vehicle pricing.
-  - position: Data Science Intern
-    company_name: Algomo
-    company_url: https://www.algomo.com/
-    company_logo: "custom/algomo"
-    date_start: 2021-08-02
-    date_end: 2021-09-24
-    summary: |
-      Worked with BERT-based models for multilingual customer service chatbots.
+#       Exams: class II.i (69.4%). Exam results inclue 73% in Advanced Information Theory and Coding, 72% in Probabilistic Machine Learning, 90% in Computational Statistics and Machine Learning.
+#   - area: Bachelor of Arts (B.A.), Engineering
+#     institution: University of Cambridge
+#     date_start: 2019-10-05
+#     date_end: 2023-06-30
+#     summary: |
+#       Overall grade: II.i
+# work:
+#   - position: Machine Learning Researcher
+#     company_name: Motorway
+#     company_url: https://motorway.co.uk/
+#     company_logo: "custom/motorway"
+#     date_start: 2024-04-29
+#     date_end: 2024-09-30
+#     summary: |
+#       Investigating the utility of Bayesian approaches for applications in vehicle pricing.
+#   - position: Data Science Intern
+#     company_name: Algomo
+#     company_url: https://www.algomo.com/
+#     company_logo: "custom/algomo"
+#     date_start: 2021-08-02
+#     date_end: 2021-09-24
+#     summary: |
+#       Worked with BERT-based models for multilingual customer service chatbots.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -173,8 +178,10 @@ work:
 
 ## About Me
 
-I am a doctoral researcher at [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a member of the [Elpis lab](https://fortuinlab.github.io/), supervised by [Dr. Vincent Fortuin](https://fortuin.github.io/). I am mentored by [Mark van der Wilk](https://mvdw.uk/). I am broadly motivated by the need to develop machine intelligence systems that can reason in the presence of uncertainty, as this strikes me as the most [crippling flaw](https://en.wikipedia.org/wiki/Death_of_Elaine_Herzberg) of current automated learning systems.
+I am a doctoral researcher at [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a member of the [Elpis lab](https://fortuinlab.github.io/), supervised by [Dr. Vincent Fortuin](https://fortuin.github.io/). I am mentored by [Mark van der Wilk](https://mvdw.uk/). I am broadly motivated by the need to develop machine intelligence systems that operate with an accurate sense of uncertainty over their predictions.
 
-Prior to my PhD, I took a year out of education to focus on expanding my knowledge of probabilistic machine learning. In addition to this, I wrote a [single-author research paper](https://arxiv.org/abs/2405.17666) that was accepted at AABI 2024, and spent five months as a Machine Learning Researcher at [Motorway](https://motorway.co.uk/) in London where I worked with scalable Bayesian machine learning models for various use cases in vehicle pricing.
+Prior to my PhD, I took a year out of education to focus on expanding my knowledge of probabilistic machine learning. In addition to this, I wrote a [single-author research paper](https://arxiv.org/abs/2405.17666) that was accepted at AABI 2024, and spent five months as a Machine Learning Researcher at [Motorway](https://motorway.co.uk/) in London where we developed and deployed Bayesian machine learning systems for a variety of use cases within vehicle pricing.
 
 Before my year out, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was *computer and information engineering*, though my module choice made the integrated masters year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
+
+For more information about my background, feel free to look at my CV below. To see my publications, you can scroll to the bottom of my CV or find my Google Scholar page [here](https://scholar.google.com/citations?user=4keQu3kAAAAJ&hl). My CV is accurate as of April 2025.
