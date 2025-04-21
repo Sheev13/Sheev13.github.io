@@ -184,7 +184,7 @@ Prior to my PhD, I took a year out of education to focus on expanding my knowled
 
 Before my year out, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was *computer and information engineering*, though my module choice made the integrated masters year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
 
-For more information about my background, feel free to look at my [CV](/uploads/tnr_cv.pdf). To see my publications, you can scroll to the bottom of my CV or find my Google Scholar page [here](https://scholar.google.com/citations?user=4keQu3kAAAAJ&hl). My CV is accurate as of April 2025.
+For more information about my background, feel free to look at my [CV](uploads/tnr_cv.pdf). To see my publications, you can scroll to the bottom of my CV or find my Google Scholar page [here](https://scholar.google.com/citations?user=4keQu3kAAAAJ&hl). My CV is accurate as of April 2025.
 
 ### Interests
 
