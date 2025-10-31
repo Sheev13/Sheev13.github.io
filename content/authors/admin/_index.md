@@ -178,9 +178,9 @@ profiles:
 
 # About Me
 
-I am a doctoral researcher at [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a member of the [Elpis lab](https://fortuinlab.github.io/), supervised by [Dr. Vincent Fortuin](https://fortuin.github.io/). I am mentored by [Mark van der Wilk](https://mvdw.uk/). I am broadly motivated by the need to develop machine intelligence systems that operate with an accurate sense of uncertainty over their predictions.
+I am a doctoral researcher at [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) and a member of the [Elpis lab](https://fortuinlab.github.io/), supervised by [Dr. Vincent Fortuin](https://fortuin.github.io/). I am broadly motivated by the need to develop machine intelligence systems that operate with an accurate sense of uncertainty over their predictions. Ensuring high quality predictions and uncertainty estimates boils down to encoding the right inductive biases, and for me this amounts to selecting the right prior for our model. Developing ways to elicit well-specific priors in arbitrary scientific and practical applications is therefore a key focus of my research.
 
-Prior to my PhD, I took a year out of education to focus on expanding my knowledge of probabilistic machine learning. In addition to this, I wrote a [single-author research paper](https://arxiv.org/abs/2405.17666) that was accepted at AABI 2024, and spent five months as a Machine Learning Researcher at [Motorway](https://motorway.co.uk/) in London where we developed and deployed Bayesian machine learning systems for a variety of use cases within vehicle pricing.
+Prior to my PhD, I took a year out of education to focus on expanding my knowledge of probabilistic machine learning. During this time, I wrote a [single-author research paper](https://arxiv.org/abs/2405.17666) that was accepted at AABI 2024, and I spent five months as a Machine Learning Researcher at [Motorway](https://motorway.co.uk/) in London where we developed and deployed Bayesian machine learning systems for a variety of use cases within vehicle pricing.
 
 Before my year out, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was *computer and information engineering*, though my module choice made the integrated masters year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
 
@@ -188,9 +188,7 @@ For more information about my background, feel free to look at my [CV](uploads/t
 
 ### Interests
 
-  - Neural Processes and Probabilistic Meta-Learning
-  - Gaussian Processes
-  - Bayesian Deep Learning
-  - Approximate Inference
-  - Amortised Inference
-  - Probabilistic Machine Learning in General
+  - neural processes and probabilistic meta-learning
+  - amortised inference
+  - Bayesian inference as in-context learning
+  - probabilistic machine learning more broadly (e.g. GPs, BNNs, VI)
