@@ -178,17 +178,15 @@ profiles:
 
 # About Me
 
-I am a doctoral researcher at [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) and a member of the [Elpis lab](https://fortuinlab.github.io/), supervised by [Dr. Vincent Fortuin](https://fortuin.github.io/). I am broadly motivated by the need to develop machine intelligence systems that operate with an accurate sense of uncertainty over their predictions. Ensuring high quality predictions and uncertainty estimates boils down to encoding the right inductive biases, and for me this amounts to selecting the right prior for our model. Developing ways to elicit well-specific priors in arbitrary scientific and practical applications is therefore a key focus of my research.
+I am a doctoral researcher at [Helmholtz AI](https://www.helmholtz.ai/) and the [Technical University of Munich](https://www.tum.de/en/) as a member of the [Elpis lab](https://fortuinlab.github.io/), supervised by [Dr. Vincent Fortuin](https://fortuin.github.io/). I am broadly motivated by the need to develop machine intelligence systems that operate with an accurate sense of uncertainty over their predictions. Ensuring high quality predictions and uncertainty estimates boils down to encoding the right inductive biases, and in my Bayesian view this amounts to selecting the right prior for our model. Developing ways to elicit well-specified priors in arbitrary scientific and practical applications is therefore one of the wider goals of my research.
 
-Prior to my PhD, I took a year out of education to focus on expanding my knowledge of probabilistic machine learning. During this time, I wrote a [single-author research paper](https://arxiv.org/abs/2405.17666) that was accepted at AABI 2024, and I spent five months as a Machine Learning Researcher at [Motorway](https://motorway.co.uk/) in London where we developed and deployed Bayesian machine learning systems for a variety of use cases within vehicle pricing.
+My particular research area is that of *amortised inference*, and while [neural processes](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html) are what I am especially interested in, I am also excited by simulation-based inference, prior-data fitted networks (including tabular foundation models such as [TabPFN](https://en.wikipedia.org/wiki/TabPFN)), and the posing of Bayesian inference as an in-context learning problem in general. To paint a more detailed picture of my research interests, three papers that I particularly enjoyed reading recently are:
+1. [Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](https://arxiv.org/abs/2502.02463),
+2. [Flow Matching Neural Processes](https://openreview.net/forum?id=R8n2h7hzqS),
+3. [Amortized Probabilistic Conditioning for Optimization, Simulation and Inference](https://proceedings.mlr.press/v258/chang25a.html).
+
+Prior to my PhD, I took a year out of education to focus on expanding my knowledge of probabilistic machine learning. During this time, I wrote a [single-author research paper](https://arxiv.org/abs/2405.17666) about parameter symmetry breaking in BNNs that was accepted at AABI 2024, and I spent five months as a Machine Learning Researcher at [Motorway](https://motorway.co.uk/) in London where we developed and deployed Bayesian machine learning systems for a variety of use cases within vehicle pricing.
 
 Before my year out, I studied engineering at the [University of Cambridge](https://www.cam.ac.uk/) where my specialism was *computer and information engineering*, though my module choice made the integrated masters year indistinguishable from a typical masters in Machine Learning, albeit with a [heavy dose of Bayesianism](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html).
 
-For more information about my background, feel free to look at my [CV](uploads/tnr_cv.pdf). To see my publications, you can scroll to the bottom of my CV or find my Google Scholar page [here](https://scholar.google.com/citations?user=4keQu3kAAAAJ&hl). My CV is accurate as of February 2026.
-
-### Interests
-
-  - neural processes and probabilistic meta-learning
-  - amortised inference
-  - Bayesian inference as in-context learning
-  - probabilistic machine learning more broadly (e.g. GPs, BNNs, VI)
+For more information about my background, feel free to look at my [CV](uploads/tnr_cv.pdf). To see my publications, you can scroll to the bottom of my CV or find my Google Scholar page [here](https://scholar.google.com/citations?user=4keQu3kAAAAJ&hl). My CV is accurate as of June 2026.
